@@ -14,7 +14,7 @@ The Coffee-Chain Dashboard project is designed to provide a comprehensive and in
 
 ## Technologies Used
 - **Tableau:** For creating interactive and dynamic dashboards.
-
+                          
 ## Installation & Setup
 1. **Clone the Repository:**
    ```bash
