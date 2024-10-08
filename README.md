@@ -33,3 +33,42 @@ The Coffee-Chain Dashboard project is designed to provide a comprehensive and in
 ## Contributing
 Contributions to enhance the dashboard or add new features are welcome. Please fork the repository and submit a pull request with your changes.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
