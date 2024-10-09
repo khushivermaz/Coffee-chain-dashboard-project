@@ -8,7 +8,7 @@ The Coffee-Chain Dashboard project is designed to provide a comprehensive and in
 ## Features
 - **Sales Trends:** Visualize historical sales data and identify patterns, peak times, and seasonal trends.
 - **Customer Demographics:** Analyze customer data to understand demographics, preferences, and buying behaviors.
-- **Product Performance:** Track the performance of different products, including sales volume, revenue, and profitability.
+- **Product Performance:** Track the performance of different products, including sales volume, revenue, and profitability.         
 - **Interactive Filters:** Apply filters to explore data across various dimensions and time periods.
 - **Dynamic Charts:** Utilize a range of chart types such as bar charts, line graphs, and heatmaps to represent data visually.
 
